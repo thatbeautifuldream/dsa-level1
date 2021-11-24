@@ -6,8 +6,8 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int nst = 1;
-        for(int r = 1; r <= n; r++) {
-            for(int cst = 1; cst <= nst; cst++) {
+        for (int r = 1; r <= n; r++) {
+            for (int cst = 1; cst <= nst; cst++) {
                 System.out.print("*\t");
             }
             nst++;
