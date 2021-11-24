@@ -23,12 +23,8 @@ public class Main {
         int len = countDigits(n);
         k = ((k % len) + len) % len;
         int div = 1, mul = 1;
-        for (int i = 1; i <= k; i++) {
-            div *= 10;
-        }
-        for (int i = 1; i <= len - k; i++) {
-            mul *= 10;
-        }
+        div = (int) Math.pow(10, k);
+        mul = (int) Math.pow(10, len - k);
         int a = n / div;
         int b = n % div;
         return (b * mul + a);
