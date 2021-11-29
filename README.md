@@ -13,7 +13,7 @@ This is for anybody who has not coded at-least 200 hours of data structures and 
 | --- | --- | --- |
 | [Getting Started](https://www.pepcoding.com/resources/online-java-foundation/getting-started) | [🧪](https://github.com/thatbeautifuldream/dsa-level1/tree/main/001-getting-started) | [📝]() |
 | [Patterns](https://www.pepcoding.com/resources/online-java-foundation/patterns) | [🧪](https://github.com/thatbeautifuldream/dsa-level1/tree/main/002-patterns) | [📝]() |
-| [Functions and Arrays](https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays) | [🧪](https://github.com/thatbeautifuldream/dsa-level1/tree/main/003-functions-and-arrays) | [📝]() |
+| [Functions and Arrays](https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays) | [🧪](https://github.com/thatbeautifuldream/dsa-level1/tree/main/003-function-and-arrays) | [📝]() |
 
 
 
