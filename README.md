@@ -9,8 +9,12 @@ This is for anybody who has not coded at-least 200 hours of data structures and 
 
 ## Roadmap
 
-- [Getting Started](https://github.com/thatbeautifuldream/dsa-level1/tree/main/001-getting-started)
+| Topic | Solution | Notes |
+| --- | --- | --- |
+| [Getting Started](https://www.pepcoding.com/resources/online-java-foundation/getting-started) | [🧪](https://github.com/thatbeautifuldream/dsa-level1/tree/main/001-getting-started) | [📝]() |
+| [Patterns](https://www.pepcoding.com/resources/online-java-foundation/patterns) | [🧪](https://github.com/thatbeautifuldream/dsa-level1/tree/main/002-patterns) | [📝]() |
+| [Functions and Arrays](https://www.pepcoding.com/resources/online-java-foundation/function-and-arrays) | [🧪](https://github.com/thatbeautifuldream/dsa-level1/tree/main/003-functions-and-arrays) | [📝]() |
 
-- [Patterns](https://github.com/thatbeautifuldream/dsa-level1/tree/main/002-patterns)
+
 
 ![[object Object]](https://socialify.git.ci/thatbeautifuldream/dsa-level1/image?description=1&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Dark)
