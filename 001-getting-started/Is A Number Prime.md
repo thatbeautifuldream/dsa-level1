@@ -1,5 +1,7 @@
 # Is A Number Prime
 
+[`Solve here`](https://www.pepcoding.com/resources/online-java-foundation/getting-started/is-number-prime-official/ojquestion)
+
 > 1. You've to check whether a given number is prime or not.
 > 2. Take a number "t" as input representing count of input numbers to be tested.
 > 3. Take a number "n" as input "t" number of times.
