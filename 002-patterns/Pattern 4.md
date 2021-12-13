@@ -26,7 +26,7 @@ Sample Output
 ```
 ## Notes
 
-
+![Screenshot 2021-12-13 at 7 48 15 PM](https://user-images.githubusercontent.com/28717686/145829494-1401ba22-ca3c-4686-be04-6162f5189c2d.png)
 
 ## Solution
 
