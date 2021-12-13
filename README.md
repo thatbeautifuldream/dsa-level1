@@ -5,7 +5,7 @@
 
 This is for anybody who has not coded at-least 200 hours of data structures and algorithms. There are no pre-requisites, it starts from scratch. It will help you prepare a very strong foundation for later on solving on leetcode, geeksforgeeks, hackerrank and other online judges. Though the discussions are in Java, but the compiler supports other languages as well. You can watch the discussion in Java and submit in language of your choice.
 
-
+Peer Programming w/ [`Ayush Das 😎`](https://github.com/iamayushdas) [`Repo Link 🔗`](https://github.com/iamayushdas/PEP-DSA)
 
 ## Roadmap
 
