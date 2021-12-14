@@ -24,6 +24,7 @@ Sample Output
 
 ## Notes
 
+![Screenshot 2021-12-14 at 6 45 33 PM](https://user-images.githubusercontent.com/28717686/146005377-011badc2-b2fb-42eb-84eb-29ef0d7b8a29.png)
 
 ## Solution
 
