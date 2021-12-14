@@ -23,6 +23,8 @@ Sample Output
 ```
 ## Notes
 
+![Screenshot 2021-12-14 at 9 23 41 PM](https://user-images.githubusercontent.com/28717686/146032832-0accc6ab-bfc6-453f-bdd1-2700610ba041.png)
+
 
 ## Solution
 
