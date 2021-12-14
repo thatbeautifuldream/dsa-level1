@@ -28,6 +28,8 @@ Sample Output
 
 ## Notes
 
+![Screenshot 2021-12-15 at 2 10 51 AM](https://user-images.githubusercontent.com/28717686/146076137-89293e17-e83b-4cf2-9cce-23402ee56807.png)
+![Screenshot 2021-12-15 at 2 53 31 AM](https://user-images.githubusercontent.com/28717686/146081475-5120acb1-604c-4650-89b1-e70c91c6e08f.png)
 
 
 
