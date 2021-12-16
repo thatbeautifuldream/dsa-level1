@@ -41,9 +41,7 @@ Sample Output
 
 ## Notes
 
-
-
-
+![Screenshot 2021-12-17 at 2 09 56 AM](https://user-images.githubusercontent.com/28717686/146445971-a3e60b9f-376b-41e7-9923-65320fa7b4ad.png)
 
 ## Solution
 
