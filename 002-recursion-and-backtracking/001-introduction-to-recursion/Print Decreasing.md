@@ -30,7 +30,7 @@ Sample Output
 
 ## Notes
 
-
+![Screenshot 2021-12-17 at 4 54 34 PM](https://user-images.githubusercontent.com/28717686/146537796-042dc463-9b6d-4e4e-99bb-705450ab3b20.png)
 
 ## Solution
 
