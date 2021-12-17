@@ -68,8 +68,7 @@ Sample Output
 
 ## Notes
 
-
-
+![Screenshot 2021-12-17 at 4 42 02 PM](https://user-images.githubusercontent.com/28717686/146536282-9307dd91-f9c9-4c9b-a869-80176bbbedaf.png)
 
 ## Solution
 
